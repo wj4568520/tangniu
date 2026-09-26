@@ -1,0 +1,39 @@
+{
+  "sites": [
+    {
+      "key": "51duanju",
+      "name": "51短剧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "order_num": 0,
+      "ext": "./js/51duanju.js",
+      "style": {
+        "type": "rect",
+        "ratio": 0.67
+      }
+    }
+  ],
+  "lives": [],
+  "doh": [
+    {"name": "阿里", "url": "https://dns.alidns.com/dns-query", "ips": ["223.6.6.6", "223.5.5.5"]},
+    {"name": "腾讯", "url": "https://doh.pub/dns-query", "ips": ["119.29.29.29"]},
+    {"name": "114", "url": "https://dns.114dns.com/dns-query", "ips": ["114.114.114.114", "114.114.115.115"]}
+  ],
+  "parses": [],
+  "flags": [],
+  "headers": [
+    {
+      "host": "hls.qldjxf.cn",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+        "Referer": "https://blue.xdrgcewe.cc/"
+      }
+    }
+  ],
+  "spider": "",
+  "wallpaper": "https://pic.ndhixj.cn/upload_01/upload/20260814/2026081415470387400.jpeg",
+  "logo": "https://blue.xdrgcewe.cc/favicon.ico"
+}
